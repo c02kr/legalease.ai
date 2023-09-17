@@ -18,10 +18,13 @@ html {
   align-items: center;
   height: 100vh;
 }
-h1 {
+h1{
   color: #a5c9ca;
   font-family: "Libre Baskerville", serif;
   margin: 0;
+}
+h3{
+  color: #a5c9ca;
 }
 
 p {
@@ -53,7 +56,7 @@ button:hover {
     display: flex;
     margin: auto;
     width: 80%;
-    height: 150px;
+    height: 70px;
     padding: 10px;
     justify-content: space-between;
 }
@@ -62,9 +65,26 @@ button:hover {
   cursor: pointer;
 }
 .login-btn{
+  font-size: 1rem;
   color:#A5C9CA;
   cursor: pointer;
 }
 .login-btn:hover{
   color:#395B64;
+}
+.github-btn{
+  text-decoration: none;
+  margin-top: 14px;
+  margin-right: 15px;
+}
+.input-div{
+  display: flex;
+  flex-direction: column;
+    margin: auto;
+    width: 80%;
+    height: 100%;
+    padding: 10px;
+}
+.textarea{
+  margin-bottom: 10px;
 }

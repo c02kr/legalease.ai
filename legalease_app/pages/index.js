@@ -3,7 +3,7 @@ import { useRouter } from "next/router";
 const Home = () => {
   const router = useRouter();
   return (
-    <div class="centered-container">
+    <div className="centered-container">
         <div className="typing-demo">
         <h1>LegalEase.ai</h1>
         </div>
