@@ -9,4 +9,4 @@ changing this
 - Pranayak Uniyal [@upranayak](https://github.com/upranayak)
 - Vyoma Bharadwaj [@Vyomaa1980](https://github.com/Vyomaa1980)
 - Satvik Bhardwaj [@allforoneall](https://github.com/allforoneall)
-- Adya Samantray
+- Adya Samantray [@adya110](https://github.com/adya110)
