@@ -88,3 +88,56 @@ button:hover {
 .textarea{
   margin-bottom: 10px;
 }
+.section_padding{
+  padding:  4rem 4rem ;
+
+}
+.footer{
+  background-color: #2d2d32;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.sb_footer{
+  display: flex;
+  flex-direction: column;
+}
+
+a{
+  color: rgb(red, green, blue);
+  text-decoration:none;
+}
+h4{
+  font-size: 14px;
+  line-height: 17px;
+  margin-bottom: 0.9rem;
+}
+
+
+.sb_footer-below{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 0.2rem;
+}
+.sb_footer-below-links{
+  display: flex;
+  flex-direction: row;
+}
+.sb_footer-below-links p{
+  font-size: 13px;
+  line-height: 15px;
+  margin-left: 2rem;
+  color: white;
+  font-weight: 600;
+}
+hr{
+  color: white !important;
+  width: 100%;
+}
+.sb_footer-copyright p{
+  font-size: 13px;
+  line-height: 15px;
+  color: rgb(red, green, blue);
+  font-weight: 600;
+}
