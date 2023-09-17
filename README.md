@@ -1,9 +1,7 @@
-
 # LegalEase.ai
+
 AI solution to simplify legal documentation for individuals and small businesses in India!
-
-
-
+changing this
 
 ## Team members
 
@@ -12,4 +10,3 @@ AI solution to simplify legal documentation for individuals and small businesses
 - Vyoma Bharadwaj [@Vyomaa1980](https://github.com/Vyomaa1980)
 - Satvik Bhardwaj [@allforoneall](https://github.com/allforoneall)
 - Adya Samantray
-
