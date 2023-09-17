@@ -1,7 +1,6 @@
 # LegalEase.ai
 
 AI solution to simplify legal documentation for individuals and small businesses in India!
-changing this
 
 ## Team members
 
