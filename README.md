@@ -16,8 +16,9 @@ AI solution to simplify legal documentation for individuals and small businesses
 2. Open command in your computer
 
 ```bash
-  git clone https://github.com/adhirajkar3103/legalease.ai.git
+  git clone https://github.com/your_username/legalease.ai.git
 ```
+Type your github username in place of your_username (This won't work if you have not forked the project before)
 3. Install dependencies and run the program
 ```bash
   cd legalease.ai
