@@ -1,8 +1,14 @@
+import { useRouter } from "next/router";
+
 const Home = () => {
+  const router = useRouter();
   return (
     <div class="centered-container">
+        <div className="typing-demo">
         <h1>LegalEase.ai</h1>
-        <p>Coming soon...</p>
+        </div>
+        <p>AI solution to simplify legal documentation for individuals and small businesses in India!</p>
+        <button onClick={(e)=>router.push('/home')}>Get started</button>
     </div>
   );
 };
